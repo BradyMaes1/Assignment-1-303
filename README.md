@@ -10,10 +10,15 @@ Main:
 
 
 Cpp file:
+![303assignment1CPP1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/303assignment1CPP1.PNG)
 
 
 Header file:
+![303assignment1H1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/303assignment1H1.PNG)
 
 
 Output Testing/Console:
+![303assignment1Output1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/303assignment1Output1.PNG)
 
+Text File:
+![303assignment1TxtFile](https://github.com/BradyMaes1/Assignment-1-303/blob/main/303assignment1TxtFile.PNG)
