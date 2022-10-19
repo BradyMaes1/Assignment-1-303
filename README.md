@@ -7,19 +7,23 @@ console screenshot
 Screenshots:
 
 Main:
-![303assignment1Main1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/303assignment1Main1.PNG)
+![303assignment1Main1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/assignment2part1input1.PNG)
 
 
-Cpp file:
-![303assignment1CPP1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/303assignment1CPP1.PNG)
+Cpp files:
+![303assignment1CPP1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/assignment2part1cpp1.PNG)
+![303assignment1CPP1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/assignment2part1cpp2.PNG)
 
 
 Header file:
-![303assignment1H1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/303assignment1H1.PNG)
+![303assignment1H1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/assignment2part1header.PNG)
 
 
 Output Testing/Console:
-![303assignment1Output1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/303assignment1Output1.PNG)
+![303assignment1Output1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/assignment2part1output1.PNG)
+![303assignment1Output1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/assignment2part1output2.PNG)
+![303assignment1Output1](https://github.com/BradyMaes1/Assignment-1-303/blob/main/assignment2part1output3.PNG)
+
 
 Text File:
-![303assignment1TxtFile](https://github.com/BradyMaes1/Assignment-1-303/blob/main/303assignment1TxtFile.PNG)
+![303assignment1TxtFile](https://github.com/BradyMaes1/Assignment-1-303/blob/main/assignment2part1txtFile.PNG)
